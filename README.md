@@ -4,13 +4,6 @@
 
 <p align="left"> <img src="https://hacktoberfest.digitalocean.com/" /> </p>
 
-
-<p align="left">
-<a href="https://linkedin.com/in/shivam-parihar-7aaa58201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivam-parihar-7aaa58201/" height="30" width="40" /></a>
-<a href="https://instagram.com/imshivam_parihar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/imshivam_parihar/" height="30" width="40" /></a>
-<a href="https://twitter.com/ShivamP92126081" target="blank"><img align="center" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="https://twitter.com/ShivamP92126081" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Guidlines</h3>
 <p align="left>
 1.Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
