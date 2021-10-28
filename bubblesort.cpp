@@ -1,4 +1,4 @@
-#include<iostream>
+#inlcude<iostream>
 using namespace std;
 
 void Bubblesort(int A[],int n){
